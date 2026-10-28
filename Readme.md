@@ -51,7 +51,7 @@ Desarrollador backend Java con **3 años** construyendo APIs REST con Spring Boo
 
 ## 📌 Proyectos destacados
 
-### 📨 [Kafka Invoice Processor](https://github.com/adricarrera/kafka-invoice-processor)
+### 📨 [Kafka Invoice Processor](https://github.com/adricarrera/KafkaInvoiceProcessor)
 Microservicio con Spring Boot y Apache Kafka que procesa facturas electrónicas: **consume → valida → transforma a XML → publica**.
 
 - Arquitectura con responsabilidades separadas (consumer, servicios de validación y transformación, producer, repositorio)
