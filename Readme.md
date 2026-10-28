@@ -1,11 +1,71 @@
-<h1 align="center">Hi, I'm Adrián Carrera 👋</h1>
-<h3 align="center">FullStack Developer</h3>
+<h1 align="center">Hola, soy Adrián Carrera 👋</h1>
+<h3 align="center">Java Backend Developer · Spring Boot · REST APIs · PostgreSQL</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adriancarrerafdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriancarrerafdez" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/adriancarrerafdez"><img src="https://img.shields.io/badge/LinkedIn-adriancarrerafdez-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Galicia%2C%20Espa%C3%B1a-informational" alt="Galicia, España"/>
+  <img src="https://img.shields.io/badge/Estado-Abierto%20a%20nuevas%20oportunidades-brightgreen" alt="Abierto a oportunidades"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 Sobre mí
+
+Desarrollador backend Java con **3 años** construyendo APIs REST con Spring Boot y PostgreSQL, desde el modelo de datos hasta el despliegue. También trabajo con Angular, lo que me permite entender y depurar un sistema de extremo a extremo.
+
+## 🛠️ Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641)
+
+**Bases de datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+**Cloud y herramientas**
+
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA)
+
+**Frontend (complementario)**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## 🚀 Qué hago
+
+- Diseño y desarrollo **APIs REST** con Spring Boot, autenticación con **JWT**
+- Modelado y consultas en **PostgreSQL**
+- Escribo **tests unitarios y de integración** con JUnit y Mockito
+- Gestión de ficheros con **AWS S3**
+- Trabajo en equipo con **Git** y metodología **Scrum** gestionado con **Jira**
+
+## 📌 Proyectos destacados
+
+### 📨 [Kafka Invoice Processor](https://github.com/adricarrera/kafka-invoice-processor)
+Microservicio con Spring Boot y Apache Kafka que procesa facturas electrónicas: **consume → valida → transforma a XML → publica**.
+
+- Arquitectura con responsabilidades separadas (consumer, servicios de validación y transformación, producer, repositorio)
+- Gestión de errores en Kafka: `ErrorHandlingDeserializer`, `DefaultErrorHandler` con reintentos y distinción entre errores de negocio y técnicos
+- Cálculos monetarios con `BigDecimal`, validación por país extensible
+- Persistencia de facturas inválidas con Spring Data JPA
+- Tests unitarios de la lógica de negocio y entorno local reproducible con Docker Compose
+
+`Java 17` `Spring Boot` `Spring Kafka` `Spring Data JPA` `H2` `Maven` `Docker Compose`
+
+## 🌱 Ahora mismo
+
+- Profundizando en **arquitectura de microservicios** y buenas prácticas de diseño backend
+
+## 📫 Contacto
+
+- LinkedIn: [linkedin.com/in/adriancarrerafdez](https://linkedin.com/in/adriancarrerafdez)
