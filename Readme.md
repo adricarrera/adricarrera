@@ -65,7 +65,7 @@ Desarrollador backend Java con **3 años de experiencia** construyendo APIs REST
 
 ## 📌 Proyectos destacados
 
-### 📦 Microservices Stock
+### 📦 [Microservices Stock](https://github.com/adricarrera/MicroservicesStock)
 
 Proyecto de portfolio que coordina pedidos, reservas de inventario y notificaciones mediante eventos de Kafka. El pedido se crea como `PENDING` y se confirma o rechaza cuando inventario procesa la reserva.
 
@@ -73,7 +73,6 @@ Proyecto de portfolio que coordina pedidos, reservas de inventario y notificacio
 - Pruebas de integración con Testcontainers y compilación y pruebas de los tres servicios en GitHub Actions.
 - Entorno local reproducible con Docker Compose.
 
-[Repositorio privado](https://github.com/adricarrera/MicroservicesStock)
 
 ### 📨 [Kafka Invoice Processor](https://github.com/adricarrera/KafkaInvoiceProcessor)
 Microservicio con Spring Boot y Apache Kafka que procesa facturas electrónicas: **consume → valida → transforma a XML → publica**.
