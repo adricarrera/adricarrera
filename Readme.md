@@ -51,6 +51,18 @@ Desarrollador backend Java con **3 años** construyendo APIs REST con Spring Boo
 
 ## 📌 Proyectos destacados
 
+### 📦 Microservices Stock
+
+Proyecto de portfolio que coordina pedidos, reservas de inventario y notificaciones mediante eventos de Kafka. El pedido se crea como `PENDING` y se confirma o rechaza cuando inventario procesa la reserva.
+
+- Control de concurrencia en PostgreSQL y deduplicación de reservas por pedido.
+- Pruebas de integración con Testcontainers y compilación y pruebas de los tres servicios en GitHub Actions.
+- Entorno local reproducible con Docker Compose.
+
+`Java 21` `Spring Boot` `Apache Kafka` `PostgreSQL` `Flyway` `Testcontainers` `Docker Compose` `GitHub Actions`
+
+[Repositorio privado](https://github.com/adricarrera/MicroservicesStock)
+
 ### 📨 [Kafka Invoice Processor](https://github.com/adricarrera/KafkaInvoiceProcessor)
 Microservicio con Spring Boot y Apache Kafka que procesa facturas electrónicas: **consume → valida → transforma a XML → publica**.
 
