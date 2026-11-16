@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador backend Java con **3 años** construyendo APIs REST con Spring Boot y PostgreSQL, desde el modelo de datos hasta el despliegue. También trabajo con Angular, lo que me permite entender y depurar un sistema de extremo a extremo.
+Desarrollador backend Java con **3 años de experiencia** construyendo APIs REST con Spring Boot y PostgreSQL, desde el modelo de datos hasta el despliegue. En mis proyectos personales diseño microservicios que se comunican por eventos con Kafka y trabajo casos de concurrencia, idempotencia y recuperación ante errores. También trabajo con Angular, lo que me ayuda a depurar aplicaciones de extremo a extremo.
 
 ## 🛠️ Stack
 
@@ -20,6 +20,12 @@ Desarrollador backend Java con **3 años** construyendo APIs REST con Spring Boo
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
+
+**Pruebas**
+
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641)
 
@@ -29,7 +35,14 @@ Desarrollador backend Java con **3 años** construyendo APIs REST con Spring Boo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white)
+![H2](https://img.shields.io/badge/H2-09476B)
+
 **Cloud y herramientas**
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -43,11 +56,12 @@ Desarrollador backend Java con **3 años** construyendo APIs REST con Spring Boo
 
 ## 🚀 Qué hago
 
-- Diseño y desarrollo **APIs REST** con Spring Boot, autenticación con **JWT**
-- Modelado y consultas en **PostgreSQL**
-- Escribo **tests unitarios y de integración** con JUnit y Mockito
-- Gestión de ficheros con **AWS S3**
-- Trabajo en equipo con **Git** y metodología **Scrum** gestionado con **Jira**
+- Diseño APIs REST con Spring Boot y autenticación con JWT.
+- Modelo datos en PostgreSQL, versiono esquemas con Flyway y aplico bloqueos cuando varias operaciones compiten por el mismo stock.
+- Integro servicios con Kafka y diseño consumidores que gestionan mensajes duplicados y errores de procesamiento.
+- Escribo pruebas unitarias y de integración con JUnit, Mockito y Testcontainers. Automatizo su ejecución con GitHub Actions y preparo entornos locales con Docker Compose.
+- Gestiono ficheros con AWS S3 y colaboro con Git, Scrum y Jira.
+
 
 ## 📌 Proyectos destacados
 
@@ -59,8 +73,6 @@ Proyecto de portfolio que coordina pedidos, reservas de inventario y notificacio
 - Pruebas de integración con Testcontainers y compilación y pruebas de los tres servicios en GitHub Actions.
 - Entorno local reproducible con Docker Compose.
 
-`Java 21` `Spring Boot` `Apache Kafka` `PostgreSQL` `Flyway` `Testcontainers` `Docker Compose` `GitHub Actions`
-
 [Repositorio privado](https://github.com/adricarrera/MicroservicesStock)
 
 ### 📨 [Kafka Invoice Processor](https://github.com/adricarrera/KafkaInvoiceProcessor)
@@ -71,8 +83,6 @@ Microservicio con Spring Boot y Apache Kafka que procesa facturas electrónicas:
 - Cálculos monetarios con `BigDecimal`, validación por país extensible
 - Persistencia de facturas inválidas con Spring Data JPA
 - Tests unitarios de la lógica de negocio y entorno local reproducible con Docker Compose
-
-`Java 17` `Spring Boot` `Spring Kafka` `Spring Data JPA` `H2` `Maven` `Docker Compose`
 
 ## 🌱 Ahora mismo
 
